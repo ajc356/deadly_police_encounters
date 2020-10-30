@@ -39,6 +39,8 @@ Since the Mapping Police Violence data has zip code information for its entire d
 
 **Key Findings** 
 
+An interactive map of my findings and other select visualizations can be found (here) [https://public.tableau.com/profile/amanda.cheney#!/vizhome/metisproject3/map].
+
 Only 9% of all US zip codes account for all police killings of people of color between 2013-2020.
 
 Top 10 Most Important Features:
