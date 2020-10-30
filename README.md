@@ -64,7 +64,7 @@ Thus, where possible, future work would do well to examine characteristics of la
 
 **Technologies Used** 
 
-* Jupiter Notebook
+* Jupyter Notebook
 * Python
 * Scikit-learn
 * Pandas
