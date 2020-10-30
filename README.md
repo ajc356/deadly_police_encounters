@@ -10,15 +10,15 @@ Between January 1, 2013 and October 12, 2020, 8,485 people were killed by police
 
 Therefore, in this project, I focus on deadly police encounters where the person whose life was lost was a person of color and I seek to understand where these deadly encounters happen.  
 
-**Guiding Question ** 
+**Guiding Question** 
 
 Where do deadly police encounters occur where the person whose life was lost was a person of color? 
 
-**Objective ** 
+**Objective** 
 
 Build a classification model that can identify where deadly encounters are likely to happen based on socio-economic characteristics of the communities in which they occur. 
 
-**Data Sources ** 
+**Data Sources** 
 
 The [Mapping Police Violence](https://mappingpoliceviolence.org/) project which has data on all deadly police encounters nationwide that including information about the precise location of the killing as well as information about the victim’s race. 
 
