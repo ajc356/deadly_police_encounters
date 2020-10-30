@@ -20,7 +20,7 @@ Build a classification model that can identify where deadly encounters are likel
 
 **Data Sources** 
 
-The [Mapping Police Violence](https://mappingpoliceviolence.org/) project which has data on all deadly police encounters nationwide that including information about the precise location of the killing as well as information about the victim’s race. 
+The [Mapping Police Violence](https://mappingpoliceviolence.org/) project which has comprehensive data on nearly all deadly police encounters that have occurred in the US since 2013 -- including information about the precise location of the killing as well as information about the victim’s race. 
 
 [American Community Survey Data](https://www.census.gov/programs-surveys/acs) from the US Census Bureau which provides detailed population information on a yearly basis on topics not covered by the decennial census. In my case, I am particularly interested in those relating to socio-economic indicators like education, unemployment, rates of health insurance coverage, use of food stamps, computer ownership and access to the internet – nearly all of which the ACS offers data on by racial/ ethnic categories. 
 
