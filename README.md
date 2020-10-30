@@ -1,14 +1,14 @@
 # Deadly Police Encounters
 
-Amanda Cheney
-Metis Project 3
-October 28, 2020
+Amanda Cheney  
+Metis Project 3  
+October 28, 2020  
 
 **Motivation**
 
-Between January 1, 2013 and October 12, 2020, 8,485 people were killed by police in the United States. 51% of these people have been people of color – people who are Black, Latinx, Native American, Asian, Pacific Islander - this despite the fact that these racial and ethnic groups comprise less than 40% of the overall US population. 
+Between January 1, 2013 and October 12, 2020, 8,485 people were killed by police in the United States. 51% of these people have been people of color – people who are Black, Latinx, Native American, Asian, Pacific Islander - this despite the fact that these racial and ethnic groups comprise less than 40% of the overall US population.   
 
-Therefore, in this project, I focus on deadly police encounters where the person whose life was lost was a person of color and I seek to understand where these deadly encounters happen.
+Therefore, in this project, I focus on deadly police encounters where the person whose life was lost was a person of color and I seek to understand where these deadly encounters happen.  
 
 **Guiding Question ** 
 
