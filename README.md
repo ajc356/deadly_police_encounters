@@ -60,7 +60,7 @@ There are a few counter-intuitive takeaways from this analysis – namely that p
 
 Thus, where possible, future work would do well to examine characteristics of law enforcement agencies responsible for deadly encounters rather than characteristics of communities within which they exist as well as measures of racial inequality within zip codes – for instance comparing differences between median income of white and black households. Another would be to look at more granular socio-economic data, such as by census tract rather than zip codes 
 
-**Technologies Used ** 
+**Technologies Used** 
 
 * Jupiter Notebook
 * Python
@@ -72,7 +72,7 @@ Thus, where possible, future work would do well to examine characteristics of la
 * SQL
 * Taleau 
 
-**Classification Algorithms: ** 
+**Classification Algorithms:** 
 
 * KNN
 * Logistic Regression
