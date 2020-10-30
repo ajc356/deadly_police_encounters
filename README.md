@@ -28,7 +28,7 @@ Since the Mapping Police Violence data has zip code information for its entire d
 
 **Methods**
 
-1. Collected zip code level ACS data using the [census.gov](census.gov) API.
+1. Collected zip code level ACS data using the [census.gov](https://api.census.gov/) API.
 2. Engineered features to indicate for all zip codes in the United States whether or not people/ a person of color has been killed by police in that zip code. 
 3. Tested 5 different classification models - KNN, Logistic Regression, Random Forest, SVC.
 4. Evaluated different sampling techniques to accommodate class imbalance - RandomUnderSampler, RandomOverSampler, SMOTE, ADASYN. ADASYN offered the best performance. 
