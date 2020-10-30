@@ -1,4 +1,12 @@
-# Codebook for American Community Survey Variables used in Deadly Police Encounters Data
+# Codebook for American Community Survey Variables
+
+**Source:**
+
+https://api.census.gov/data/2018/acs/acs5/subject/variables.html
+
+https://api.census.gov/data/2018/acs/acs5/profile/variables.html
+
+-----
 
 
 
