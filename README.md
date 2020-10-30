@@ -74,7 +74,7 @@ Thus, where possible, future work would do well to examine characteristics of la
 * SQL
 * Taleau 
 
-**Classification Algorithms:** 
+**Classification Algorithms** 
 
 * KNN
 * Logistic Regression
