@@ -1,30 +1,14 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import pickle
-import statistics
-
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import figure
 
-from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import train_test_split, KFold, cross_val_score, StratifiedKFold
-from sklearn.neighbors import KNeighborsClassifier
 from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.naive_bayes import BernoulliNB
 
-from sklearn.pipeline import Pipeline
-from sklearn.metrics import precision_score, recall_score, accuracy_score, fbeta_score, log_loss, make_scorer
-from sklearn.metrics import precision_recall_fscore_support as score
-from sklearn.metrics import roc_auc_score, roc_curve, classification_report, confusion_matrix, auc
-from sklearn.metrics import fbeta_score
-from sklearn.metrics import plot_confusion_matrix, plot_roc_curve
+from sklearn.metrics import roc_auc_score, roc_curve, auc
+from sklearn.metrics import plot_roc_curve
 
-from imblearn.over_sampling import SMOTE, ADASYN, RandomOverSampler
-from imblearn.under_sampling import RandomUnderSampler
-from sklearn.metrics import precision_recall_fscore_support
+from imblearn.over_sampling import ADASYN
 
 def plot_roc_curves(X, y):
     plt.figure(figsize=(10,6))
